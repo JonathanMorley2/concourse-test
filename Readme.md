@@ -1,7 +1,7 @@
 <Header1>Quick test repo for Concourse
 Concourse get should be able to read this repo
 
-<Header1>Concourse Config.yml
+<Header2>Concourse Config.yml
 ---
 resources:
 - name: git-concourse-test
