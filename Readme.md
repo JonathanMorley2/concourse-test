@@ -20,7 +20,7 @@ jobs:
     config:
       inputs:
         - name: git-concourse-test
-      platform: linux
+      platform: windows
       image_resource:
         type: registry-image
         source: { repository: busybox }
